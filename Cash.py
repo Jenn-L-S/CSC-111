@@ -1,4 +1,5 @@
 # Jennifer Smith
+# Code written 09-05-2019.
 
 # Here is where the amount needed is input.
 amount = eval(input('Enter amount to break down into bills: '))
